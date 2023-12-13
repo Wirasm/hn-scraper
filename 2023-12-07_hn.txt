@@ -1,0 +1,66 @@
+Title: Gemini AI
+URL: https://deepmind.google/technologies/gemini/
+
+Title: Show HN: Beeper Mini – iMessage client for Android
+URL: https://www.beeper.com/
+
+Title: How does Shazam work? (2022)
+URL: https://www.cameronmacleod.com/blog/how-does-shazam-work
+
+Title: Why is Jepsen written in Clojure?
+URL: https://aphyr.com/posts/367-why-is-jepsen-written-in-clojure
+
+Title: Mold Course
+URL: https://www.epa.gov/mold/mold-course-introduction
+
+Title: LogoFAIL: Secure Boot bypass with manipulated boot logos
+URL: https://binarly.io/posts/The_Far_Reaching_Consequences_of_LogoFAIL/
+
+Title: 23andMe updates their TOS to force binding arbitration
+URL: https://stackdiary.com/23andme-updates-tos-to-force-binding-arbitration/
+
+Title: He blew the whistle on Amazon. He's still paying the price
+URL: https://www.ft.com/content/de5fea12-2938-4c20-b394-10ca258a5fa1
+
+Title: Unveiling secrets of the ESP32: creating an open-source MAC layer
+URL: https://zeus.ugent.be/blog/23-24/open-source-esp32-wifi-mac/
+
+Title: Gordon Freeman at the Olympic Games
+URL: https://moonbase.lgbt/blog/100m-accelerated-backhopping/
+
+Title: Long context prompting for Claude 2.1
+URL: https://www.anthropic.com/index/claude-2-1-prompting
+
+Title: Building end-to-end security for Messenger
+URL: https://engineering.fb.com/2023/12/06/security/building-end-to-end-security-for-messenger/
+
+Title: Show HN: CopilotKit- Build in-app AI chatbots and AI-powered textareas
+URL: https://github.com/CopilotKit/CopilotKit
+
+Title: Behind the scenes of Sound ID in Merlin – Identify birds using your phone (2021)
+URL: https://www.macaulaylibrary.org/2021/06/22/behind-the-scenes-of-sound-id-in-merlin/
+
+Title: Browsing the Eastern Side of the Personal Web
+URL: https://www.bikobatanari.art/posts/2023/east-west-website-culture
+
+Title: Spotlight: Sentry for Development
+URL: https://spotlightjs.com/
+
+Title: Researchers have discovered magnetic monopole quasi-particles
+URL: https://www.cam.ac.uk/research/news/diamonds-and-rust-help-unveil-impossible-quasi-particles
+
+Title: Swap OpenAI with any open-source model
+URL: https://postgresml.org/blog/introducing-the-openai-switch-kit-move-from-closed-to-open-source-ai-in-minutes
+
+Title: Framework Laptop 16 Deep Dive – Connectors
+URL: https://frame.work/blog/framework-laptop-16-deep-dive---connectors
+
+Title: Untrusted Device Encryption
+URL: https://docs.syncthing.net/specs/untrusted.html
+
+Title: The Sheep Incident (2008)
+URL: https://www.damninteresting.com/the-sheep-incident/
+
+Title: Crush Your Interviews with the Power of Storytelling
+URL: https://www.scarletink.com/p/crush-your-interviews-power-of-storytelling
+
